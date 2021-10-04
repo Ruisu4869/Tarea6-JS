@@ -6,9 +6,9 @@
 ## Ejercicio 1
 Escribe el código...
 
-***javascript
+```javascript
 nombre = prompt("Ingrese su nombre: ");
 console.log(`Ahora estas en la matriz, ${nombre}`);
-***
+```
 
-[I1]https://github.com/Ruisu4869/Tarea6-JS/blob/master/Exercise%201.png
+![I1](https://github.com/Ruisu4869/Tarea6-JS/blob/master/Exercise%201.png)
